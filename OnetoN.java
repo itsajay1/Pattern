@@ -1,4 +1,10 @@
-
+/*
+4
+1234
+1234
+1234
+1234
+ */
 import java.util.Scanner;
 
 public class OnetoN {
